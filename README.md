@@ -1,2 +1,2 @@
-# HTML_Monor_Project
+# HTML_Minor_Project
 Cat Photo Galley
